@@ -1,2 +1,2 @@
 this is second file
- git revert sample
+ git revert sampleThis is Comparsion lecture, change in file 2
