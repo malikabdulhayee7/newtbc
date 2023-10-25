@@ -1,2 +1,3 @@
 this is first file
 testing rest commit 1
+ git revert sample 1
