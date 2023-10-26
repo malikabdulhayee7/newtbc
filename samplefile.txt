@@ -1,3 +1,5 @@
 this is first file
 testing rest commit 1
  git revert sample 1This is Comparsion lecture
+
+this is sample text for git merging only 
