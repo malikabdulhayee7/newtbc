@@ -1,3 +1,8 @@
 this is second file
  git revert sampleThis is Comparsion lecture, change in file 2
+<<<<<<< Updated upstream
 this is stash lecture for samplefile2, change is in main file
+=======
+
+this is the stashh lecture changes in file 1
+>>>>>>> Stashed changes

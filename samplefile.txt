@@ -1,4 +1,10 @@
 this is first file
 testing rest commit 1
  git revert sample 1This is Comparsion lecture
+<<<<<<< Updated upstream
 this is stash lecture, change is in main file
+=======
+
+
+this is the stashh lecture changes in file 1
+>>>>>>> Stashed changes
